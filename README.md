@@ -14,6 +14,8 @@ The **AR/VR Interactive IFSCR Lab** is a digital twin project that replicates th
 - **Realistic Animations & Visuals**: High-quality models, lighting, and animations to enhance immersion.
 - **Cross-Platform**: Compatible with AR and VR devices for flexible deployment.
 
+![EdTech Architecture](./Ourproject.png)
+
 ## Technologies Used
 - **Unity**: Game engine for 3D development and interaction logic.
 - **Photon Unity Networking (PUN)**: For real-time multiplayer functionality.
